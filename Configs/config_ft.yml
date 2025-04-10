@@ -29,7 +29,7 @@ preprocess_params:
     hop_length: 300
 
 model_params:
-  multispeaker: true
+  multispeaker: false
 
   dim_in: 64 
   hidden_dim: 512
